@@ -1,8 +1,8 @@
 ## Olá, me chamo Guilherme Nicoletti!!
 
   -💼 Trabalho atualmente no setor Administrativo/Financeiro 
--📘 Atualmente estudando Python, JS, HTML, CSS-
--🎖️ Meta, se tornar um Dev, e entrar no mercado de Programação!
+  -📘 Atualmente estudando Python, JS, HTML, CSS-
+  -🎖️ Meta, se tornar um Dev, e entrar no mercado de Programação!
 
 <div align="">
   <a href="https://github.com/guilhermenicoletti">
